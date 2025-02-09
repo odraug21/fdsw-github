@@ -5,10 +5,13 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/Fondo.jpg");
+  background-image: url("../img/Fondo_ppal.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+}
+h1{
+  color: rgb(211, 14, 14);
 }
 
 /* Mis trabajos */
